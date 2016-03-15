@@ -15,3 +15,4 @@ github_username:  kiosktm
 
 # Build settings
 markdown: kramdown
+gems: ["autoprefixer-rails", "jekyll-assets-autoprefixer"]
